@@ -20,12 +20,12 @@ pip install pipenv
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd LittleLemon-API-Project # Or whatever your project folder is named
+    git clone https://github.com/Samira-Gabr/LittleLemon-API-Meta.git
+    cd LittleLemon-API-Meta
     ```
 2.  **Navigate to the project root:**
     ```bash
-    cd LittleLemon # Assuming your Django project is inside a folder named LittleLemon
+    cd LittleLemon 
     ```
 3.  **Install dependencies using Pipenv:**
     ```bash
