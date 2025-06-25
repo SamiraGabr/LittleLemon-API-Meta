@@ -1,7 +1,14 @@
 ## Introduction
 
 This project provides a comprehensive API for the Little Lemon restaurant, enabling seamless interaction for various user roles. It's designed to support web and mobile applications, allowing users to browse and manage menu items, place and track orders, and for staff to manage deliveries efficiently.
+
 ![Project structure and API routes](Images/Screenshot1.png "Overview")
+![Project structure and API routes](Images/Screenshot2.png "Overview")
+![Project structure and API routes](Images/Screenshot3.png "Overview")
+![Project structure and API routes](Images/Screenshot4.png "Overview")
+![Project structure and API routes](Images/Screenshot5.png "Overview")
+![Project structure and API routes](Images/Screenshot6.png "Overview")
+
 
 -----
 
