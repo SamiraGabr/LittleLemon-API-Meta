@@ -1,11 +1,3 @@
-تمام، بناءً على الوصف اللي قدمته، سأقوم بإنشاء ملف `README.md` احترافي لمشروعك على GitHub. سأقوم بتنظيم المعلومات بشكل واضح، مع التركيز على الميزات الرئيسية ونقاط النهاية (API Endpoints) في جداول واضحة.
-
------
-
-# Little Lemon API Project
-
------
-
 ## Introduction
 
 This project provides a comprehensive API for the Little Lemon restaurant, enabling seamless interaction for various user roles. It's designed to support web and mobile applications, allowing users to browse and manage menu items, place and track orders, and for staff to manage deliveries efficiently.
