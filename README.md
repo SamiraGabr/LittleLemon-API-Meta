@@ -12,6 +12,14 @@ This project provides a comprehensive API for the Little Lemon restaurant, enabl
 
 -----
 
+## 🛠️ Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
 ## Project Structure and Setup
 
 The API is built using Django REST Framework. All API endpoints are implemented within a single Django app named `LittleLemonAPI`.
