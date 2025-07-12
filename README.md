@@ -1,16 +1,11 @@
+# LittleLemon-API-Meta
+---
+
 ## Introduction
 
 This project provides a comprehensive API for the Little Lemon restaurant, enabling seamless interaction for various user roles. It's designed to support web and mobile applications, allowing users to browse and manage menu items, place and track orders, and for staff to manage deliveries efficiently.
 
-![Project structure and API routes](Images/Screenshot1.png "Overview")
-![Project structure and API routes](Images/Screenshot2.png "Overview")
-![Project structure and API routes](Images/Screenshot3.png "Overview")
-![Project structure and API routes](Images/Screenshot4.png "Overview")
-![Project structure and API routes](Images/Screenshot5.png "Overview")
-![Project structure and API routes](Images/Screenshot6.png "Overview")
-
-
------
+----
 
 ## 🛠️ Technologies Used
 
@@ -19,6 +14,18 @@ This project provides a comprehensive API for the Little Lemon restaurant, enabl
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+-----
+
+## Requirements By META 
+
+![Project structure and API routes](Images/Screenshot1.png "Overview")
+![Project structure and API routes](Images/Screenshot2.png "Overview")
+![Project structure and API routes](Images/Screenshot3.png "Overview")
+![Project structure and API routes](Images/Screenshot4.png "Overview")
+![Project structure and API routes](Images/Screenshot5.png "Overview")
+![Project structure and API routes](Images/Screenshot6.png "Overview")
+
+-----
 
 ## Project Structure and Setup
 
